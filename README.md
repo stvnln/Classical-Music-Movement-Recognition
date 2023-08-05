@@ -22,3 +22,6 @@ You can install all the required packages using the following command:
 
     RNN Model: To train and evaluate the RNN model, run the RNN section of the code.
 
+## Results
+    The models' performance can be evaluated by their accuracy and F1-score on the validation set. The confusion matrix is also plotted for a visual representation of the model's performance.
+
